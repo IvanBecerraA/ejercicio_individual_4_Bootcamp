@@ -1,0 +1,12 @@
+#productos ul li{
+    list-style: none;
+}
+p{
+    margin-bottom: 0px;
+}
+#productos a{
+    color: black;
+}
+aside a{
+    color: white;
+}
